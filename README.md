@@ -62,7 +62,7 @@ Add screenshots of your portfolio here to showcase the design and layout.
 - Icons/Fonts: Add credits if you use external resources.
 
 ## License
-This project is open source and available under the [MIT License](LICENSE). Feel free to use, modify, and share.
+This project is open source. Feel free to use, modify, and share.
 
 ---
 
